@@ -283,7 +283,7 @@ header {
   }
   .popular {
     width: 85%;
-    margin: 0 auto;
+    margin: 100px auto 0 auto;
   }
   .popular-boxes {
     grid-template-columns: repeat(2,1fr);
@@ -361,7 +361,7 @@ header {
   }
    .popular {
     width: 90%;
-    margin: 0 auto;
+    margin: 100px auto 0 auto;
   }
    .popular-boxes {
     grid-template-columns: 1fr;
